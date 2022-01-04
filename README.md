@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋, I'm qs.
+
+![Profile View](https://komarev.com/ghpvc/?username=qs-lll&color=blue)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=qs-lll&show_icons=true&theme=radical)
